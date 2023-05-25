@@ -1,0 +1,17 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+}
+.header {
+  
+}
+    .header .header-info {
+        background-color: red;
+        max-width: auto;
+    }
+        .header .header-info a {
+            color: white;
+            text-decoration: none;
+        }
